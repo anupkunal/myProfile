@@ -1,2 +1,2 @@
 
-CLick here explore about me https://anupkunal.github.io/myProfile/
+CLick here to go webpage https://anupkunal.github.io/myProfile/
